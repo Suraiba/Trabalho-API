@@ -1,0 +1,30 @@
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form2.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Aluno\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\Database1.sdf
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form2.resources
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form3.resources
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form4.resources
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form5.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
