@@ -87,35 +87,53 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
+    <Compile Include="quiz2.Designer.vb">
+      <DependentUpon>quiz2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="quiz2.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="Login.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.vb">
-      <DependentUpon>Form2.vb</DependentUpon>
-    </Compile>
-    <Compile Include="Form2.vb">
+    <Compile Include="Login.Designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form3.Designer.vb">
-      <DependentUpon>Form3.vb</DependentUpon>
+    <Compile Include="Register.Designer.vb">
+      <DependentUpon>Register.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form3.vb">
+    <Compile Include="Register.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form4.Designer.vb">
-      <DependentUpon>Form4.vb</DependentUpon>
+    <Compile Include="Lobby.Designer.vb">
+      <DependentUpon>Lobby.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form4.vb">
+    <Compile Include="Lobby.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form5.Designer.vb">
-      <DependentUpon>Form5.vb</DependentUpon>
+    <Compile Include="licoes1.Designer.vb">
+      <DependentUpon>licoes1.vb</DependentUpon>
     </Compile>
-    <Compile Include="Form5.vb">
+    <Compile Include="licoes1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tabela.Designer.vb">
+      <DependentUpon>tabela.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tabela.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tabela2.Designer.vb">
+      <DependentUpon>tabela2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tabela2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quizlobby.Designer.vb">
+      <DependentUpon>quizlobby.vb</DependentUpon>
+    </Compile>
+    <Compile Include="quizlobby.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -135,20 +153,29 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.vb</DependentUpon>
+    <EmbeddedResource Include="quiz2.resx">
+      <DependentUpon>quiz2.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form3.resx">
-      <DependentUpon>Form3.vb</DependentUpon>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form4.resx">
-      <DependentUpon>Form4.vb</DependentUpon>
+    <EmbeddedResource Include="Lobby.resx">
+      <DependentUpon>Lobby.vb</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form5.resx">
-      <DependentUpon>Form5.vb</DependentUpon>
+    <EmbeddedResource Include="licoes1.resx">
+      <DependentUpon>licoes1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabela.resx">
+      <DependentUpon>tabela.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tabela2.resx">
+      <DependentUpon>tabela2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quizlobby.resx">
+      <DependentUpon>quizlobby.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>

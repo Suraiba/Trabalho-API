@@ -28,3 +28,17 @@ C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\Windows
 C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
 C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
 C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Login.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.quiz2.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Register.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Lobby.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.licoes1.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.tabela.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.tabela2.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.quizlobby.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\Database1.sdf
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\sport\Desktop\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
